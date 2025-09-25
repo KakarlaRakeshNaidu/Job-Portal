@@ -57,11 +57,11 @@ Deployment (Recommended): Vercel
  └── App.jsx            # Main application component<br>
 
 ⚙️ Setup & Installation
-1️⃣ Clone the repository
-git clone https://github.com/YourUsername/job-portal-react.git
+1️⃣ Clone the repository<br>
+git clone https://github.com/YourUsername/job-portal-react.git<br>
 cd job-portal-react
 
-2️⃣ Install dependencies
+2️⃣ Install dependencies<br>
 npm install
 # or yarn / pnpm
 
@@ -69,9 +69,9 @@ npm install
 
 Create a .env file in the root directory:
 
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_CLERK_PUBLISHABLE_KEY=
+VITE_SUPABASE_URL=<br>
+VITE_SUPABASE_ANON_KEY=<br>
+VITE_CLERK_PUBLISHABLE_KEY=<br>
 
 
 Replace placeholders with your actual credentials.
